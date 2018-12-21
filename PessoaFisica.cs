@@ -4,7 +4,7 @@ namespace ExemploHeranca
     {
         private string cpf;
 
-        public string CPF
+        public string Cpf
         {
             get; set;
         }
