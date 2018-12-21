@@ -7,6 +7,6 @@ namespace ExemploHeranca
         public string Cnpj
         {
             get; set;
-        }
+        }//teste
     }
 }
